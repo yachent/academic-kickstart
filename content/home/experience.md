@@ -35,12 +35,20 @@ date_format = "January 2006"
   """
   
 [[experience]]
-  title = "Dupty Director"
-  company = "GEIRI Iinformation and Communication Research Institute"
+  title = "Teaching and Research Assistant"
+  company = "Michigan Technological University"
   company_url = ""
-  location = "China"
-  date_start = "2013-01-01"
-  date_end = "2017-05-31"
-  description = """Start to develop Wearable Computing and AR/VR projects."""
+  location = "Houghton, MI, US"
+  date_start = "2012-08-01"
+  date_end = "2018-07-01"
+  description = """
+  Responsibilities include:
+  
+  * Lab Teaching Assistant for Digital Design, Electronics, Hardware/Software System Integration, and C Programming    
+  * Teaching Assistant for Distribution Engineering and Power System Dynamics and Stability 
+  * Research assistant for Advanced Metering Infrastructure (AMI) project
+  * Research assistant for Data Analysis and Modeling based on Smart Grid
+  * Research assistant for Electricity Theft and Fraud Detection based on Graph Theory
+  """
 
 +++
