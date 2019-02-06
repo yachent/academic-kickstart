@@ -51,7 +51,7 @@ date_format = "January 2006"
   * Research assistant for Electricity Theft and Fraud Detection based on Graph Theory.
   """
   
-  [[experience]]
+[[experience]]
   title = "Intern/Engineer Assistant"
   company = "Henan Provincial Computer Research Institute"
   company_url = ""
@@ -64,6 +64,7 @@ date_format = "January 2006"
   * Participated the project of Testing and Processing System for Network Image of Yellow River.
   * Responsible for managing and monitoring the system data.
   """
+  
 [[experience]]
   title = "Teaching and Research Assistant"
   company = "Jilin University"
@@ -79,5 +80,4 @@ date_format = "January 2006"
   * Instructor to Sophomore International Business Students and Class Mentor for Freshmen.
   * Vice-Chairman of the Technology Association.
   * Young Presidents Organization (YPO) Communication Activity.
-  
 +++
