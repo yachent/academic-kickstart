@@ -75,6 +75,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yachen Tang received the Ph.D. degree in Electrical and Computer Engineering at Michigan Technological University in 2018. He is currently a research engineer at Global Energy Interconnection Research Institute (GEIRI) North America. He previously received the BS degree in Telecommunication Engineering from Jilin University, China, in 2011, and MS degree in Computer Engineering from Michigan Technological University, Houghton, in 2014, respectively.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He was originally an intern with Henan Provincial Computer Research Institute for the project of Testing and Processing System for Network Image of Yellow River from July 2011 to January 2012. He held a patent on Chinese characters input program. Since his doctorate program at Tech, he has been active in reviewing manuscripts of IEEE PES and IET Generation, Transmission & Distribution transactions journals. 
