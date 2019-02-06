@@ -25,6 +25,6 @@ date_format = "Jan 2006"
   certificate_url = "https://patents.google.com/patent/CN100530053C/zh"
   date_start = "2009-08"
   date_end = ""
-  description = "The Ziyinma Chinese Characters Input Program in Chinese National Computer Software Design"
+  description = """The Ziyinma Chinese Characters Input Program in Chinese National Computer Software Design."""
 
 +++
