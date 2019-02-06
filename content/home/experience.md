@@ -26,14 +26,7 @@ date_format = "January 2006"
   location = "San Jose, CA, USA"
   date_start = "August 2018"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Correlate Power System Database to Establish a Knowledge Graph (KG).
-  * Machine Learning and Data Mining to Achieve Relevance Recommendation and Search.
-  * Apply TigerGraph to Generate Power System Data Structure.
-  * Demonstrate the Dynamic Data Flow on the Demo Website.
-  """
+  description = """Correlate Power System Database to Establish a Knowledge Graph (KG), machine Learning and Data Mining to Achieve Relevance Recommendation and Search, apply TigerGraph to Generate Power System Data Structure, and demonstrate the Dynamic Data Flow on the Demo Website"""
 
 [[experience]]
   title = "Teaching and Research Assistant"
