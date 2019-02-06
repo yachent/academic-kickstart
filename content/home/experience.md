@@ -20,63 +20,49 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Engineer"
-  company = "GEIRI North America"
-  company_url = "https://geirina.net/"
+  title = "Power System Research Engineer"
+  company = "PMU & System Analytics Group, GEIRI North America"
+  company_url = "https://www.geirina.net/research/2"
   location = "San Jose, CA, USA"
-  date_start = "August 2018"
+  date_start = "2018-06-26"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Correlate Power System Database to Establish a Knowledge Graph (KG)
-  * Machine Learning and Data Mining to Achieve Relevance Recommendation and Search
-  * Apply TigerGraph to Generate Power System Data Structure
-  """
+  description = """Working with Dr. Di Shi on load modeling and energy storage"""
 
 [[experience]]
-  title = "Teaching and Research Assistant"
-  company = "Michigan Technological University"
-  company_url = "https://www.mtu.edu/"
-  location = "Houghton, MI, US"
-  date_start = "August 2012"
-  date_end = "July 2018"
-  description = """
-  Responsibilities include:
-  
-  * Lab Teaching Assistant for Digital Design, Electronics, Hardware/Software System Integration, and C Programming
-  * Teaching Assistant for Distribution Engineering and Power System Dynamics and Stability
-  * Research assistant for Advanced Metering Infrastructure (AMI) project, Data Analysis and Modeling based on Smart Grid, and Electricity Theft and Fraud Detection based on Graph Theory
-  """
-  
+  title = "Postdoctoral Researcher"
+  company = "PMU & System Analytics Group, GEIRI North America"
+  company_url = "https://www.geirina.net/research/2"
+  location = "San Jose, CA, USA"
+  date_start = "2017-06-26"
+  date_end = "2018-06-25"
+  description = """Working with Dr. Di Shi on microgrids and system analytics"""
+
 [[experience]]
-  title = "Intern/Engineer Assistant"
-  company = "Henan Provincial Computer Research Institute"
-  company_url = ""
-  location = "Kaifeng, Henan, China"
-  date_start = "July 2011"
-  date_end = "January 2012"
-  description = """
-  Responsibilities include:
-  
-  * Participated the project of Testing and Processing System for Network Image of Yellow River
-  * Responsible for managing and monitoring the system data
-  """
-  
+  title = "Research Aide"
+  company = "Energy Systems Division, Argonne National Laboratory"
+  company_url = "https://www.anl.gov/es"
+  location = "Lemont, IL, USA"
+  date_start = "2015-06-01"
+  date_end = "2015-09-30"
+  description = """Working with Dr. Audun Botterud and Dr. Zhi Zhou on stochastic unit commitment and renewable integration"""
+
 [[experience]]
-  title = "Teaching and Research Assistant"
-  company = "Jilin University"
-  company_url = "https://www.jlu.edu.cn/"
-  location = "Changchun, Jilin, China"
-  date_start = "January 2009"
-  date_end = "February 2010"
-  description = """
-  Responsibilities include:
-  
-  * Research Assistant in researching the application and development of mobile communication and investigating the development tendency of core network and IMS structure
-  * Instructor to Sophomore International Business Students and Class Mentor for Freshmen
-  * Vice-Chairman of the Technology Association
-  """
-  
+  title = "Research Internship"
+  company = "Data Analytics Group, Mitsubishi Electric Research Laboratories"
+  company_url = "http://www.merl.com/research/data-analytics"
+  location = "Cambridge, MA, USA"
+  date_start = "2014-06-01"
+  date_end = "2014-09-30"
+  description = """Working with Dr. Hongbo Sun on distribution system reconfiguration with energy storage"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Electrical Engineering, University of Washington"
+  company_url = "http://labs.ece.uw.edu/real/"
+  location = "Seattle, WA, USA"
+  date_start = "2011-09-16"
+  date_end = "2017-06-15"
+  description = """Working with Prof. Daniel Kirschen on renewable integration, stochastic unit commitment, scenario generation and reduction, wind forecasting, energy storage and electricity markets"""
+
 +++
 
