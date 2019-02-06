@@ -16,13 +16,14 @@ organizations = [ { name = "GEIRI North America", url = "" } ]
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "yachen.tang@geirina.net"
 
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Knowledge Graph",
+  "Data Modeling",
+  "Digital Image Processing"
 ]
 
 # List qualifications (such as academic degrees)
