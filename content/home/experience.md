@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "GEIRINA"
   company_url = ""
   location = "San Jose, CA, US"
-  date_start = "2018-08"
+  date_start = "2018-09-10"
   date_end = ""
   description = """
   Responsibilities include:
