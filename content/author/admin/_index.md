@@ -38,7 +38,7 @@ interests = [
   year = 2014
 
 [[education.courses]]
-  course = "BSc in Telecommunications Engineering"
+  course = "BS in Telecommunications Engineering"
   institution = "Jilin University"
   year = 2011
 
