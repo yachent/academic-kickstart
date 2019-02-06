@@ -51,4 +51,35 @@ date_format = "January 2006"
   * Research assistant for Electricity Theft and Fraud Detection based on Graph Theory
   """
 
+[[experience]]
+  title = "Intern and Engineer Assistant"
+  company = "Henan Provincial Computer Research Institute"
+  company_url = ""
+  location = "Kaifeng, Henan, China"
+  date_start = "2011-07-01"
+  date_end = "2012-01-01"
+  description = """
+  Responsibilities include:
+  
+  * Participated the project of Testing and Processing System for Network Image of Yellow River   
+  * Responsible for managing and monitoring the system data
+  """
+
+[[experience]]
+  title = "Teaching and Research Assistant"
+  company = "Jilin University"
+  company_url = ""
+  location = "Changchun, Jilin, China"
+  date_start = "2009-01-01"
+  date_end = "2010-02-01"
+  description = """
+  Responsibilities include:
+  
+  * Research Assistant in researching the application and development of mobile communication    
+  * Research Assistant in investigating the development tendency of core network and IMS structure 
+  * Instructor to Sophomore International Business Students and Class Mentor for Freshmen
+  * Vice-Chairman of the Technology Association
+  * Young Presidents Organization (YPO) Communication Activity
+  """
+  
 +++
