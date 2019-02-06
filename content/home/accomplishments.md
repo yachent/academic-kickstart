@@ -19,5 +19,12 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[item]]
+  title = "Patent"
+  organization = "China"
+  certificate_url = "https://patents.google.com/patent/CN100530053C/zh"
+  date_start = "2009-08-01"
+  date_end = ""
+  description = """The Ziyinma Chinese Characters Input Program in Chinese National Computer Software Design."""
+  
 +++
