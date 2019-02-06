@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Engineer"
   company = "GEIRINA"
-  company_url = ""
+  company_url = "https://geirina.net/"
   location = "San Jose, CA, US"
   date_start = "2018-09-10"
   date_end = ""
