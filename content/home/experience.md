@@ -81,4 +81,5 @@ date_format = "January 2006"
   * Vice-Chairman of the Technology Association.
   * Young Presidents Organization (YPO) Communication Activity.
   """
+  
 +++
