@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "GEIRI North America"
   company_url = "https://geirina.net/"
   location = "San Jose, CA, USA"
-  date_start = "2018-08"
+  date_start = "August 2018"
   date_end = ""
   description = """
   Responsibilities include:
@@ -39,8 +39,8 @@ date_format = "January 2006"
   company = "Michigan Technological University"
   company_url = "https://www.mtu.edu/"
   location = "Houghton, MI, US"
-  date_start = "2012-08"
-  date_end = "2018-07"
+  date_start = "August 2012"
+  date_end = "July 2018"
   description = """
   Responsibilities include:
   
@@ -56,8 +56,8 @@ date_format = "January 2006"
   company = "Henan Provincial Computer Research Institute"
   company_url = ""
   location = "Kaifeng, Henan, China"
-  date_start = "2011-07"
-  date_end = "2012-01"
+  date_start = "July 2011"
+  date_end = "January 2012"
   description = """
   Responsibilities include:
   
@@ -70,8 +70,8 @@ date_format = "January 2006"
   company = "Jilin University"
   company_url = "https://www.jlu.edu.cn/"
   location = "Changchun, Jilin, China"
-  date_start = "2009-01"
-  date_end = "2010-02"
+  date_start = "January 2009"
+  date_end = "February 2010"
   description = """
   Responsibilities include:
   
@@ -80,4 +80,5 @@ date_format = "January 2006"
   * Instructor to Sophomore International Business Students and Class Mentor for Freshmen.
   * Vice-Chairman of the Technology Association.
   * Young Presidents Organization (YPO) Communication Activity.
+  """
 +++
