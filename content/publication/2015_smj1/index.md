@@ -27,7 +27,7 @@ abstract = "Probabilistic load forecasting (PLF) has gained widespread attention
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
