@@ -19,27 +19,36 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Engineer"
+  company = "GEIRI North America"
+  company_url = "https://geirina.net/"
+  location = "San Jose, CA, USA"
+  date_start = "2018-08"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Correlate Power System Database to Establish a Knowledge Graph (KG).
+  * Machine Learning and Data Mining to Achieve Relevance Recommendation and Search.
+  * Apply TigerGraph to Generate Power System Data Structure.
+  * Demonstrate the Dynamic Data Flow on the Demo Website.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Teaching and Research Assistant"
+  company = "Michigan Technological University"
+  company_url = "https://www.mtu.edu/"
+  location = "Houghton, MI, US"
+  date_start = "2012-08"
+  date_end = "2018-07"
+  description = """
+  Responsibilities include:
+  
+  * Lab Teaching Assistant for Digital Design, Electronics, Hardware/Software System Integration, and C Programming.
+  * Teaching Assistant for Distribution Engineering and Power System Dynamics and Stability.
+  * Research assistant for Advanced Metering Infrastructure (AMI) project.
+  * Research assistant for Data Analysis and Modeling based on Smart Grid.
+  * Research assistant for Electricity Theft and Fraud Detection based on Graph Theory.
+  """
 
 +++
