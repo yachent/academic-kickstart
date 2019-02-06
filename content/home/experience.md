@@ -18,51 +18,33 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
-  title = "Power System Research Engineer"
-  company = "PMU & System Analytics Group, GEIRI North America"
-  company_url = "https://www.geirina.net/research/2"
-  location = "San Jose, CA, USA"
-  date_start = "2018-06-26"
+  title = "Project Manager"
+  company = "GEIRINA"
+  company_url = ""
+  location = "California"
+  date_start = "2017-06-01"
   date_end = ""
-  description = """Working with Dr. Di Shi on load modeling and energy storage"""
-
+  description = """
+  Responsibilities include:
+  
+  * Framework Design for Software and Hardware    
+  * Computer Vision 
+  * Deep Learning
+  * Graph Computing
+  * Knowledge Graph 
+  * Project - Depth Vision based Intelligent Reconstruction and Recognition of Complex and Dynamic Fieldwork Enviornmnet
+  * Project - 
+  * project completed - R&D on Augmented Reality Smart Wearable Device fundamental Software and Hardware Platform 
+  """
+  
 [[experience]]
-  title = "Postdoctoral Researcher"
-  company = "PMU & System Analytics Group, GEIRI North America"
-  company_url = "https://www.geirina.net/research/2"
-  location = "San Jose, CA, USA"
-  date_start = "2017-06-26"
-  date_end = "2018-06-25"
-  description = """Working with Dr. Di Shi on microgrids and system analytics"""
-
-[[experience]]
-  title = "Research Aide"
-  company = "Energy Systems Division, Argonne National Laboratory"
-  company_url = "https://www.anl.gov/es"
-  location = "Lemont, IL, USA"
-  date_start = "2015-06-01"
-  date_end = "2015-09-30"
-  description = """Working with Dr. Audun Botterud and Dr. Zhi Zhou on stochastic unit commitment and renewable integration"""
-
-[[experience]]
-  title = "Research Internship"
-  company = "Data Analytics Group, Mitsubishi Electric Research Laboratories"
-  company_url = "http://www.merl.com/research/data-analytics"
-  location = "Cambridge, MA, USA"
-  date_start = "2014-06-01"
-  date_end = "2014-09-30"
-  description = """Working with Dr. Hongbo Sun on distribution system reconfiguration with energy storage"""
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Department of Electrical Engineering, University of Washington"
-  company_url = "http://labs.ece.uw.edu/real/"
-  location = "Seattle, WA, USA"
-  date_start = "2011-09-16"
-  date_end = "2017-06-15"
-  description = """Working with Prof. Daniel Kirschen on renewable integration, stochastic unit commitment, scenario generation and reduction, wind forecasting, energy storage and electricity markets"""
+  title = "Dupty Director"
+  company = "GEIRI Iinformation and Communication Research Institute"
+  company_url = ""
+  location = "China"
+  date_start = "2013-01-01"
+  date_end = "2017-05-31"
+  description = """Start to develop Wearable Computing and AR/VR projects."""
 
 +++
-
