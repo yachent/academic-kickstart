@@ -32,7 +32,6 @@ date_format = "January 2006"
   * Correlate Power System Database to Establish a Knowledge Graph (KG)
   * Machine Learning and Data Mining to Achieve Relevance Recommendation and Search
   * Apply TigerGraph to Generate Power System Data Structure
-  * Demonstrate the Dynamic Data Flow on the Demo Website
   """
 
 [[experience]]
@@ -47,9 +46,7 @@ date_format = "January 2006"
   
   * Lab Teaching Assistant for Digital Design, Electronics, Hardware/Software System Integration, and C Programming
   * Teaching Assistant for Distribution Engineering and Power System Dynamics and Stability
-  * Research assistant for Advanced Metering Infrastructure (AMI) project
-  * Research assistant for Data Analysis and Modeling based on Smart Grid
-  * Research assistant for Electricity Theft and Fraud Detection based on Graph Theory
+  * Research assistant for Advanced Metering Infrastructure (AMI) project, Data Analysis and Modeling based on Smart Grid, and Electricity Theft and Fraud Detection based on Graph Theory
   """
   
 [[experience]]
@@ -76,11 +73,9 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Research Assistant in researching the application and development of mobile communication
-  * Research Assistant in investigating the development tendency of core network and IMS structure
+  * Research Assistant in researching the application and development of mobile communication and investigating the development tendency of core network and IMS structure
   * Instructor to Sophomore International Business Students and Class Mentor for Freshmen
   * Vice-Chairman of the Technology Association
-  * Young Presidents Organization (YPO) Communication Activity
   """
   
 +++
