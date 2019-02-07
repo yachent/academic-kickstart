@@ -27,7 +27,7 @@ abstract = "Reducing power outage time to each customer is essential to the over
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = True
+featured = true
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
