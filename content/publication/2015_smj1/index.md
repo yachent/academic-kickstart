@@ -1,6 +1,6 @@
 +++
 
-title = "Conditional Residual Modeling for Probabilistic Load Forecasting"
+title = "Extraction of Energy Information From Analog Meters Using Image Processing"
 date = 2018-11-01T00:00:00
 draft = false
 
