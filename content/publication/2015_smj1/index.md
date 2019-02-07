@@ -5,7 +5,7 @@ date = 2018-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Yi Wang", "Qixin Chen", "Ning Zhang", "__**Yishen Wang**__"]
+authors = ["__**Yachen Tang**__", "Chee-Wooi Ten", "Chaoli Wang", "Gordon Parker"]
 
 # Publication type.
 # Legend:
@@ -19,15 +19,15 @@ authors = ["Yi Wang", "Qixin Chen", "Ning Zhang", "__**Yishen Wang**__"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
-publication_short = "*IEEE Transactions on Power Systems*"
+publication = "*IEEE Transactions on Smart Grid*, vol. 6, no. 4, pp. 2032-2040, Jan. 2015."
+publication_short = "*IEEE Transactions on Smart Grid*"
 
 # Abstract and optional shortened version.
-abstract = "Probabilistic load forecasting (PLF) has gained widespread attention in recent years because it presents more uncertainty information about the future loads. To further improve the PLF performance, this letter proposes a novel PLF method to leverage existing point load forecasts by modeling the conditional forecast residual. Specifically, the method firstly conducts point forecasting using the historical load data and related factors to obtain the point forecast. Then, this point forecast is used as an additional input feature to describe the conditional distribution of the residual on the point forecast. Finally, the point forecast and conditional distribution of the residual are integrated together to produce the final probabilistic forecast. By comparing different point forecasting and quantile regression models, comprehensive case studies obtained from a publicly available load dataset with multiple zones demonstrate the advantages of our proposed method. This letter also informatively reveals the relationship between point and probabilistic forecast accuracies."
+abstract = "There has been an ongoing effort to increase the number of advanced metering infrastructure (AMI) devices to improve system observability. When deployed across distribution secondary networks, AMI provides building-level load and consumption information which an be used to improve grid management strategies. A barrier to implementation is the significant upgrade costs associated with retrofitting existing meters with network-capable sensing. One economic way is to use image processing methods to extract usage information from images of the existing meters. This paper presents a solution that a cloud server without modifying the existing electromechanical analog meters. In this framework, a systematic approach to extract energy data from images is applied to replace the manual reading process. A case study is presented where the digital imaging approach is compared to the averages determined by visual readings over a one-month period."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8453025"
+url_pdf = "https://ieeexplore.ieee.org/document/7017585"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
